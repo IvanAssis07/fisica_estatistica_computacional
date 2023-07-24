@@ -1,1 +1,1 @@
-# fisica_estatistica_computacional
+Contém os trabalhos práticos desenvolvidos ao longo da disciplina de Introdução à Física e Estatística Computacional.
